@@ -63,6 +63,6 @@ jobs:
           GIT_USERNAME: ${{ secrets.EC_CHART_GIT_USERNAME }}
         with:
           SOURCE_DIR: 'k8s/pkg'
-          DESTINATION_REPOS_BRANCHES: 'github.com/mvenukadasula/oci.git:disty github.com/mvenukadasula/helmcharts.git:disty'
+          DESTINATION_REPOS_BRANCHES: 'github.com/mvenukadasula/oci.git:disty github.com/mvenukadasula/ec-helmcharts.git:disty'
           COMMIT_MESSAGE: 'Helm packages with tag v1.0.0-fukuoka-4'
           TAG_NAME: 'v1.0.0-fukuoka-4'
