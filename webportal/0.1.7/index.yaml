@@ -3,12 +3,12 @@ entries:
   webportal:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-18T00:26:57.888492104Z"
+    created: "2022-04-23T02:50:54.869208494Z"
     description: A Helm chart for Kubernetes
-    digest: ba24f84f659a1a79a571c3c0e0ddf579639ed34634f29205fbf17eedd302151f
+    digest: 49933f39f1e138ed99e221ab9188ee2799d97268d6bb43089f2a63f426756e83
     name: webportal
     type: application
     urls:
     - https://ec-release.github.io/oci/webportal/0.1.7/webportal-0.1.7.tgz
     version: 0.1.7
-generated: "2022-04-18T00:26:57.887307096Z"
+generated: "2022-04-23T02:50:54.868567589Z"
